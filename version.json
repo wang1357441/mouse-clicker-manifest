@@ -1,8 +1,8 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "url": "https://github.com/wang1357441/mouse-clicker-manifest/releases/latest",
-  "notes": "一键自动更新（自己下载自己装）+ 热键支持Shift+两个字母，默认改成Shift+J+K",
-  "exe": "https://github.com/wang1357441/mouse-clicker-manifest/releases/download/v2.3.0/mouse_clicker.exe",
-  "sha256": "d25cac417cba7958d727ca5249ba013955425ca128df49149760020fd83ca336",
-  "size": 11464592
+  "notes": "新增长按连点模式：按住鼠标键就连点、松手就停（触发键可选左/右/中键，默认左键）",
+  "exe": "https://github.com/wang1357441/mouse-clicker-manifest/releases/download/v2.4.0/mouse_clicker.exe",
+  "sha256": "9e2216a9f36b65e36a5c353b85d418b90d8e36e73d9224929bb6a2071e039cc0",
+  "size": 11472451
 }
