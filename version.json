@@ -1,5 +1,8 @@
 {
-  "version": "2.2.0",
-  "url": "https://github.com/wang1357441/mouse-clicker/releases/latest",
-  "notes": "修复检查更新被CDN缓存骗：双源都读取版本最大者；退出不再刷报错；含v2.1.0点击提速"
+  "version": "2.3.0",
+  "url": "https://github.com/wang1357441/mouse-clicker-manifest/releases/latest",
+  "notes": "一键自动更新（自己下载自己装）+ 热键支持Shift+两个字母，默认改成Shift+J+K",
+  "exe": "https://github.com/wang1357441/mouse-clicker-manifest/releases/download/v2.3.0/mouse_clicker.exe",
+  "sha256": "d25cac417cba7958d727ca5249ba013955425ca128df49149760020fd83ca336",
+  "size": 11464592
 }
