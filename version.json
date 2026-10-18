@@ -1,8 +1,8 @@
 {
-  "version": "2.4.1",
+  "version": "2.4.2",
   "url": "https://github.com/wang1357441/mouse-clicker-manifest/releases/latest",
-  "notes": "修好一键自动更新：被杀毒软件挡住也能重试装上，失败不留垃圾文件",
-  "exe": "https://github.com/wang1357441/mouse-clicker-manifest/releases/download/v2.4.1/mouse_clicker.exe",
-  "sha256": "832921764643c182892b83d71e163770e6c37f50874cdcd0a1500d06ed321615",
-  "size": 11473979
+  "notes": "一键更新更抗折腾：下载断了自动重下，被杀软挡住自动重试，失败不留垃圾文件",
+  "exe": "https://github.com/wang1357441/mouse-clicker-manifest/releases/download/v2.4.2/mouse_clicker.exe",
+  "sha256": "0267cfebdd89a70d925075f4f240cc54620c610bf7035ba6153c998633a42fb3",
+  "size": 11474683
 }
