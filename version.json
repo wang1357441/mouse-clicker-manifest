@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "url": "https://github.com/wang1357441/mouse-clicker/releases/latest",
-  "notes": "全局热键（窗口失焦也管用）+ 热键可自定义（默认反引号/Esc，不依赖F区）+ 设置记忆 + 修复点击线程弹框崩溃"
+  "notes": "点击提速：改用 pynput 直发输入事件，同样间隔快一个数量级；最小间隔降到 0.001 秒"
 }
