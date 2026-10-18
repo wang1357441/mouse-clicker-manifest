@@ -1,0 +1,5 @@
+{
+  "version": "2.0.0",
+  "url": "https://github.com/wang1357441/mouse-clicker/releases/latest",
+  "notes": "全局热键（窗口失焦也管用）+ 热键可自定义（默认反引号/Esc，不依赖F区）+ 设置记忆 + 修复点击线程弹框崩溃"
+}
